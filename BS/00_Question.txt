@@ -1,0 +1,15 @@
+Binary Search (classic)
+Find First and Last Position of Element in Sorted Array
+Search Insert Position
+Find Floor and Ceil in a Sorted Array
+Count Occurrences of a Number in Sorted Array
+Check If a Number Exists in a Sorted Array
+Lower Bound Implementation
+Upper Bound Implementation
+Find Missing Number in Sorted Array
+Find Square Root of a Number (Integer Part)
+Find Peak Element (1D)
+Find Element in a Nearly Sorted Array
+Find Minimum Difference Element in Sorted Array
+Binary Search on Reverse Sorted Array
+Find Position of an Element in an Infinite Sorted Array
