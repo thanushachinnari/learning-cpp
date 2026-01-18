@@ -1,3 +1,5 @@
+// 153 = 1^3+5^3+3^3 = 1+125+27 = 153
+
 #include<iostream>
 using namespace std;
 void armstrong(int n ){

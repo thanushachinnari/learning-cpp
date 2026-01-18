@@ -1,0 +1,34 @@
+Prime number
+Palindrome number
+Armstrong number
+Fibonacci
+Factorial
+Focus: loops, conditions, input/output
+Day 2 – Arrays (Easy)
+Practice:
+Max / Min element
+Second largest
+Reverse array
+Sum of array
+Focus: array traversal, indexing
+Day 3 – Arrays (Logic)
+Practice:
+Remove duplicates
+Count even/odd
+Rotate array
+Sort array (basic logic)
+Day 4 – Strings
+Practice:
+Reverse string
+Palindrome string
+Count vowels
+Frequency of characters
+Anagram check
+Very important for NLA 
+Day 5 – Patterns
+Practice:
+Star pyramid
+Number pyramid
+Floyd’s triangle
+Multiplication table
+Almost guaranteed 1 pattern question

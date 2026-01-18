@@ -1,5 +1,5 @@
-Binary Search (classic)
-Find First and Last Position of Element in Sorted Array
+*Binary Search (classic)
+*Find First and Last Position of Element in Sorted Array
 Search Insert Position
 Find Floor and Ceil in a Sorted Array
 Count Occurrences of a Number in Sorted Array
